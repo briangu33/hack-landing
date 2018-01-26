@@ -2,15 +2,30 @@
 	max-width: none;
 	background-image: url("./assets/title-bg.jpg");
 	background-size: cover;
-	height: 200px;
+	height: 400px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 }
 
 .projects-container {
 	background-color: white;
-	padding: 20px;
+	padding: 30px;
+}
+
+.about-container {
+	padding: 30px;
+	margin-top: 50px;
+}
+
+.acknowledge-container {
+	padding: 30px;
+}
+
+.contact-container {
+	padding: 30px;
+	margin-bottom: 100px;
 }
 
 #title-text {
