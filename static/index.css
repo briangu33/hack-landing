@@ -14,6 +14,10 @@
 	padding: 30px;
 }
 
+.project-container {
+	min-width: 400px;
+}
+
 .links-container {
 	display: inline-flex;
 	flex-direction: row;
