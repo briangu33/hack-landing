@@ -14,6 +14,16 @@
 	padding: 30px;
 }
 
+.links-container {
+	display: inline-flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.link-container {
+	margin-right: 10px;
+}
+
 .about-container {
 	padding: 30px;
 	margin-top: 50px;
@@ -26,6 +36,10 @@
 .contact-container {
 	padding: 30px;
 	margin-bottom: 100px;
+}
+
+.no-bottom-margin {
+	margin-bottom: 0;
 }
 
 #title-text {
